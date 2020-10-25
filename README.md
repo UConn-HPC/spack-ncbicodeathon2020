@@ -73,7 +73,7 @@ leader will check-in a few times over the 2 days to shepard their progress.
 Time | Event
 -|-
 13:00-14:00 | Group discussion with the team leader to prepare the final presentation
-14:00-13:00 | Final presentation
+16:00-17:00 | Final presentation
 
 ### Post-codeathon submissions
 
