@@ -57,8 +57,8 @@ codeathon weekend.
 
 ### Day 1: Saturday, November 7
 
-Time | Event | Description 
--|-|-
+Time | Event
+-|-
 10:00-10:30 | Codeathon organizer kick-off meeting
 10:30-11:00 | Spack guided session
 11:30-12:00 | Group discussion of codeathon goals for each team member
@@ -70,8 +70,8 @@ leader will check-in a few times over the 2 days to shepard their progress.
 
 ### Day 2: Saturday, November 7
 
-Time | Event | Description 
--|-|-
+Time | Event
+-|-
 13:00-14:00 | Group discussion with the team leader to prepare the final presentation
 14:00-13:00 | Final presentation
 
